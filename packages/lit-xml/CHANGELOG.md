@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [0.5.1-order.1](https://github.com/nicojs/lit-xml/compare/v0.5.1-order.0...v0.5.1-order.1) (2022-03-31)
+
+**Note:** Version bump only for package lit-xml
+
+
+
+
+
 ## [0.5.1-order.0](https://github.com/nicojs/lit-xml/compare/v0.5.0...v0.5.1-order.0) (2022-03-31)
 
 **Note:** Version bump only for package lit-xml
